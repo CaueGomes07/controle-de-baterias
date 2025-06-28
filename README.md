@@ -29,7 +29,7 @@ Monitorar, manter e gerenciar o ciclo de vida das baterias instaladas em torres,
 
 ## 📂 Estrutura do Projeto
 
-
+```bash
 /ctr-batery-api
 ├── /src
 │   ├── /config
@@ -49,4 +49,5 @@ Monitorar, manter e gerenciar o ciclo de vida das baterias instaladas em torres,
 ├── docker-compose.yml
 ├── package.json
 └── README.md
+
 
